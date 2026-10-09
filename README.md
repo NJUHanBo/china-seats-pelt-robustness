@@ -65,3 +65,7 @@ Null baseline (`pelt_null_baseline.py`): block bootstrap (10-yr blocks) of the
 yearly first differences of `lat_mean` and `n_south`, same block order for both,
 cumulated from the 221 BCE value; each simulated pair goes through the same
 grid and pooling as panel c.
+
+## License
+
+MIT (see `LICENSE`).
